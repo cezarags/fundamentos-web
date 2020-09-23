@@ -70,7 +70,7 @@
 .ml-50{
     margin-left:50px;
 }
-
+/*
 input[type=text], select {
     width: 100%;
     padding: 12px 20px;
@@ -125,5 +125,7 @@ input[type=text], select {
     border-radius: 4px;
     background-color: #f8f8f8;
     resize: none;
-  }
+
+    */
+
   
